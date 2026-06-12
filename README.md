@@ -1,4 +1,4 @@
-# Hi, I'm Manav Kumar! 👋
+# Hi, I'm Manav Kumar!
 
 📍 New Delhi, India  
 🎓 BCA Student at IGNOU  
@@ -45,7 +45,7 @@ Built with python-binance, argparse, and proper logging and error handling.
 
 ## 🏆 Certifications
 
-- ✅ ITI COPA Certificate — **2nd Whole Rank** 🥈
+- ✅ ITI COPA Certificate — **2nd Whole Rank**
 - ✅ Skill India — Information Technology *(2019-2020)*
 - ✅ Skill India — Web Application *(2021-2022)*
 
@@ -56,7 +56,7 @@ Built with python-binance, argparse, and proper logging and error handling.
 - Final year BCA student passionate about fintech
 - Active trader in Nifty Options, Stocks and Crypto
 - Deep thinker who loves keeping things simple and precise
-- Gym enthusiast 💪
+- Gym enthusiast
 - Interested in Philosophical concepts
 
 ---
